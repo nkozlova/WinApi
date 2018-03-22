@@ -1,0 +1,7 @@
+﻿  PalindromeCounter.cpp
+c:\winapi\task3\dll\dll\palindromecounter.cpp(5): warning C4603: PALINDROME_COUNTER_LIB: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\winapi\task3\dll\dll\palindromecounter.cpp(5): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\winapi\task3\dll\dll\palindromecounter.cpp(7): note: использование предварительно скомпилированного заголовка
+c:\winapi\task3\dll\dll\palindromecounter.cpp(19): warning C4273: PalindromeCounter: несовместимая компоновка dll
+  c:\winapi\task3\dll\dll\palindromecounter.h(14): note: см. предыдущее определение "PalindromeCounter"
+  Dll.vcxproj -> C:\WinApi\Task3\Dll\Debug\Dll.dll

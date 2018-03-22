@@ -1,0 +1,7 @@
+﻿  Utils.cpp
+c:\winapi\task3\dll\dynamiccounterofpalindromes\utils.cpp(8): warning C4005: UNICODE: изменение макроопределения
+  c:\winapi\task3\dll\dynamiccounterofpalindromes\utils.cpp(8): note: аргументы командной строки:  см. предыдущее определение "UNICODE"
+  DynamicCounterOfPalindromes.cpp
+c:\winapi\task3\dll\dynamiccounterofpalindromes\dynamiccounterofpalindromes.cpp(19): warning C4101: a: неиспользованная локальная переменная
+  Создание кода...
+  DynamicCounterOfPalindromes.vcxproj -> C:\WinApi\Task3\Dll\Debug\DynamicCounterOfPalindromes.exe
