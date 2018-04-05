@@ -1,0 +1,3 @@
+﻿  Worker.cpp
+c:\winapi\task4-5\worker\worker\worker.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+  Worker.vcxproj -> C:\WinApi\Task4-5\Worker\Debug\Worker.exe

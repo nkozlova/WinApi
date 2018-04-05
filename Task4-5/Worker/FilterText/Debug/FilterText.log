@@ -1,0 +1,4 @@
+﻿  FilterText.cpp
+c:\winapi\task4-5\worker\filtertext\filtertext.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\winapi\task4-5\worker\filtertext\filtertext.cpp(65): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  FilterText.vcxproj -> C:\WinApi\Task4-5\Worker\Debug\FilterText.exe
