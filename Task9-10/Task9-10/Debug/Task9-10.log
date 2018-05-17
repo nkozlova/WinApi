@@ -1,0 +1,4 @@
+﻿  COverlappedWindow.cpp
+c:\winapi\task9-10\task9-10\coverlappedwindow.cpp(5): warning C4005: MAX_PATH: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(60): note: см. предыдущее определение "MAX_PATH"
+  Task9-10.vcxproj -> C:\WinApi\Task9-10\Debug\Task9-10.exe
